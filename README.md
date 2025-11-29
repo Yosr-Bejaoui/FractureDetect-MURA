@@ -66,7 +66,6 @@ A large dataset of upper extremity radiographs from Stanford ML Group.
 
 ```
 ├── bone_fracture_detection.ipynb   # End-to-end notebook (data → features → models → evaluation)
-├── presentation_prompt.md          # Detailed prompt for generating PPTX slides
 ├── requirements.txt                # Python dependencies
 ├── best_model.joblib               # Saved best model (Logistic Regression pipeline)
 ├── .gitignore                      # Excludes dataset and caches
